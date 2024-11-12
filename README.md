@@ -1,2 +1,7 @@
-# Walmart-Sales-Performanace-Analysis__Revised
-Power BI dashboard analyzing Walmart sales performance across various cities, branches and product lines. This revised version includes enhanced visualizations and updated insights for improved decision-making.
+# Walmart-Sales-Performanace-Analysis - Power BI Dashboard
+This Power BI dashboard provides an in-depth analysis of Walmart's sales performance, offering insights into key metrics across various cities, branches, and product lines. The revised version includes enhanced visualizations and refined data analytics to support data-driven decision-making.
+
+Usage:
+This dashboard is intended for stakeholders seeking a comprehensive view of Walmart's sales performance, helping to inform strategic planning and operational decisions.
+
+Created by Lethishaa
